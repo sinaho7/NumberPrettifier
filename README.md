@@ -27,10 +27,9 @@ The approach involves the following steps:
 1. Is there a preferred output format for special cases like zero or very small numbers?
 2. Should the function handle edge cases such as very large numbers beyond trillions?
 
-## Time Complexity
+## Time Complexity and Space Complexity
 The time complexity of the Number Prettifier function is O(1) as it involves simple arithmetic operations and a constant number of iterations through a predefined set of units.
 
-## Space Complexity
 The space complexity of the Number Prettifier function is O(1) as it does not require any additional data structures or allocations that grow with the size of the input.
 
 ## Running Tests
