@@ -24,9 +24,8 @@ The approach involves the following steps:
 5. Use of Python's `unittest` framework for testing to ensure correctness and robustness of the solution.
 
 ## Requirements Questions
-1. Are there any specific performance requirements or constraints for the function?
+1. Is there a preferred output format for special cases like zero or very small numbers?
 2. Should the function handle edge cases such as very large numbers beyond trillions?
-3. Is there a preferred output format for special cases like zero or very small numbers?
 
 ## Time Complexity
 The time complexity of the Number Prettifier function is O(1) as it involves simple arithmetic operations and a constant number of iterations through a predefined set of units.
