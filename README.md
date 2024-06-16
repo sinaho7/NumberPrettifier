@@ -8,6 +8,7 @@ The approach involves the following steps:
 1. Determine the appropriate unit based on the magnitude of the number (thousands, millions, billions, trillions).
 2. Truncate the number to one decimal place if it's not an integer.
 3. Construct the prettified string by combining the truncated number and the unit.
+4. Handle both positive and negative numbers.
 
 ## Assumptions
 1. The input will be a numeric type (integer or float).
